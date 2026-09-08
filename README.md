@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gideon!
 
-### 📊 Statistician • Data Scientist • Researcher
+### 📊 Aspiring Statistician • Data Scientist • Researcher
 
 > *Turning data into insights, one model at a time.*
 
