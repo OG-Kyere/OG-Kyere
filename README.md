@@ -1,91 +1,85 @@
 # 👋 Hey, I'm Gideon!
 
-### 📊 Aspiring Statistician • Data Scientist • Researcher
+### 📊 Statistician • Researcher • Data Science & Statistical Computing
 
-> *Turning data into insights, one model at a time.*
+> *Turning statistical ideas into reproducible research and useful tools.*
 
-I'm a **Statistics graduate from Kwame Nkrumah University of Science and Technology (KNUST)** and a **Research & Teaching Assistant**, passionate about using statistics, programming, and data to understand real-world problems.
+I'm a **Statistics graduate from Kwame Nkrumah University of Science and Technology (KNUST)** and a **Research & Teaching Assistant**. My work combines statistical modeling, programming, and reproducible research, with growing interests in **Bayesian statistics, machine learning, biostatistics, statistical computing, and risk analytics**.
 
-My interests sit at the intersection of **Bayesian Statistics, Machine Learning, Data Science, Biostatistics, and Risk Analytics**.
+I enjoy moving between the theory behind a model and the practical work required to make it useful: cleaning real data, building analysis pipelines, checking assumptions and diagnostics, validating models, and communicating results clearly.
 
 ---
 
-## 🧠 What I'm Interested In
+## 🔬 Current Research & Projects
 
-<details>
-<summary>📈 Statistical Modeling</summary>
+### 🧠 [Bayesian Hierarchical Modelling of Childhood Stunting in Ghana](https://github.com/OG-Kyere/Bayesian-Hierarchical-Modelling-of-Childhood-Stunting-in-Ghana)
 
-* Bayesian Modeling
-* Regression Analysis
-* Time Series Analysis
-* Statistical Inference
-* Multivariate Analysis
-* Forecasting
+An applied Bayesian research project using the **2022 Ghana Demographic and Health Survey (GDHS)** to study childhood stunting in Ghana through hierarchical modeling. The project emphasizes posterior inference, uncertainty quantification, model diagnostics, posterior predictive checking, and reproducible analysis.
 
-</details>
+### 📊 [StatMate — Statistical Analysis Assistant](https://github.com/OG-Kyere/StatMate)
 
-<details>
-<summary>🤖 Machine Learning & Data Science</summary>
+A modular Python statistical-analysis application that has grown from an Iris demonstration project into a reusable workflow for **custom CSV/Excel datasets**.
 
-* Machine Learning
-* Predictive Modeling
-* Data Exploration
-* Statistical Computing
-* Data Visualization
-* Data-driven Decision Making
+Current work includes:
 
-</details>
+- Exploratory and descriptive statistical analysis
+- Correlation and hypothesis testing
+- Post-hoc analysis
+- Configurable regression and assumption diagnostics
+- Classification and cross-validated model comparison
+- ROC-AUC evaluation and feature importance
+- Prediction workflows
+- Automated TXT and HTML statistical reports
+- Session-aware analysis reporting
+- Modular architecture with an expanding automated test suite
 
-<details>
-<summary>🔬 Research</summary>
+### 📈 [Bayesian Stochastic Volatility & Commodity Risk](https://github.com/OG-Kyere/bayesian-sv-commodity-risk-ghana)
 
-I'm particularly interested in applying quantitative methods to problems in:
+Collaborative work on Bayesian stochastic-volatility modeling and commodity-risk analysis, including work around forecast validity, diagnostics, and backtesting infrastructure.
 
-* 🏥 Healthcare & Biostatistics
-* 🛡️ Insurance & Risk Analytics
-* 🌍 Social and Environmental Data
-* 📊 Applied Statistics
+### 🎓 [Student Performance Prediction](https://github.com/OG-Kyere/student-performance-prediction)
 
-</details>
+A machine-learning project exploring predictive modeling of student performance and the practical workflow from data preparation through model evaluation.
+
+---
+
+## 🧠 Research Interests
+
+**Bayesian Statistics**  
+Hierarchical models · Bayesian computation · posterior inference · uncertainty quantification
+
+**Statistical Modeling**  
+Regression · statistical inference · multivariate methods · time series · forecasting
+
+**Machine Learning & Statistical Computing**  
+Predictive modeling · model evaluation · reproducible pipelines · statistical software
+
+**Applied Research**  
+Biostatistics & public health · risk analytics · social and environmental data
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Statistical Programming**
+**Programming & Statistical Computing**
 
-`R` · `Python` · `SPSS` · `Stata` · `MATLAB`
+`Python` · `R` · `Stata` · `SPSS` · `MATLAB`
 
-**Data & Analysis**
+**Methods**
 
-`Regression` · `Time Series` · `Forecasting` · `Machine Learning` · `Bayesian Modeling`
+`Bayesian Modeling` · `Regression` · `Machine Learning` · `Time Series` · `Forecasting` · `Statistical Inference`
 
-**Documentation**
+**Research & Reproducibility**
 
-`LaTeX` · `Overleaf` · `MS Excel` · `MS PowerPoint`
-
----
-
-## 🔭 What I'm Currently Doing
-
-* 📚 Deepening my knowledge of **Data Science and Machine Learning**
-* 🧮 Working on statistical and research projects
-* 👨🏾‍🏫 Teaching and mentoring students in Statistics
-* 🐍 Improving my **Python** skills for data science
-* 🔬 Exploring applications of statistics in **healthcare and risk analytics**
+`Git` · `GitHub` · `LaTeX` · `Overleaf` · `Excel`
 
 ---
 
-## 📂 Featured Areas
+## 🔭 What I'm Working Toward
 
-| Area                | What you'll find                             |
-| ------------------- | -------------------------------------------- |
-| 📊 Statistics       | Statistical analysis & modeling              |
-| 🤖 Machine Learning | Predictive models & experiments              |
-| 🐍 Python           | Data science & computational projects        |
-| 📈 R                | Statistical computing & visualization        |
-| 🔬 Research         | Applied statistical research                 |
-| 📚 Learning         | Projects from my continuous learning journey |
+I'm particularly interested in research where statistical methodology and computation meet real-world problems. Right now, much of my work is centered on **Bayesian modeling, reproducible statistical software, health data, and quantitative risk analysis**.
+
+Alongside research, I work as a **Research & Teaching Assistant**, which keeps me involved in statistical teaching, problem solving, and helping students build stronger quantitative intuition.
 
 ---
 
@@ -98,21 +92,6 @@ I'm particularly interested in applying quantitative methods to problems in:
 
 ---
 
-## 🚀 A Little More About Me
-
-<details>
-<summary>👨🏾‍💻 Click to expand</summary>
-
-I enjoy solving problems that require both **mathematical thinking and practical reasoning**. Statistics gives me the framework to understand uncertainty, while programming allows me to turn those ideas into something useful.
-
-I also enjoy **teaching and mentoring**, because explaining a difficult concept to someone else is one of the best ways to truly understand it yourself.
-
-I'm always learning, experimenting with new tools, and looking for interesting problems where **data can tell a story that intuition alone cannot.**
-
-</details>
-
----
-
 ## 📫 Let's Connect
 
 🔗 **LinkedIn:** [Gideon Ofosu Kyere](https://www.linkedin.com/in/gideon-ofosu-kyere-35020a22/)
@@ -121,14 +100,10 @@ I'm always learning, experimenting with new tools, and looking for interesting p
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ A little about how I work
 
-> **I don't just look at data — I interrogate it.**
-> Because sometimes the data is lying. 😌📊
-
----
+> I like models that do more than produce a number. I want to know **why the model behaves the way it does, how much uncertainty remains, whether the assumptions hold, and whether the result survives careful checking.**
 
 <p align="center">
-  <i>“Without data, you're just another person with an opinion.”</i>
+  <i>Statistics, computation, and reproducible research.</i>
 </p>
-
