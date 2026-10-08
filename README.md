@@ -1,67 +1,67 @@
-# 👋 Hey, I'm Gideon!
+# 👋 Hey, I'm Gideon
 
-### 📊 Statistician • Researcher • Data Science & Statistical Computing
+### 📊 Statistician · Researcher · Statistical Computing
 
-> *Turning statistical ideas into reproducible research and useful tools.*
+I'm a Statistics graduate from **Kwame Nkrumah University of Science and Technology (KNUST)** and currently work as a **Research & Teaching Assistant**.
 
-I'm a **Statistics graduate from Kwame Nkrumah University of Science and Technology (KNUST)** and a **Research & Teaching Assistant**. My work combines statistical modeling, programming, and reproducible research, with growing interests in **Bayesian statistics, machine learning, biostatistics, statistical computing, and risk analytics**.
+Most of what I build sits somewhere between statistical theory and messy real-world data. I enjoy the full process: cleaning data, choosing a model, checking whether it actually behaves well, testing assumptions, and turning the result into something another person can reproduce.
 
-I enjoy moving between the theory behind a model and the practical work required to make it useful: cleaning real data, building analysis pipelines, checking assumptions and diagnostics, validating models, and communicating results clearly.
+My current interests are **Bayesian statistics, biostatistics, machine learning, statistical computing, time series, and quantitative risk**.
 
 ---
 
-## 🔬 Current Research & Projects
+## 🔬 Current research and projects
 
 ### 🧠 [Bayesian Hierarchical Modelling of Childhood Stunting in Ghana](https://github.com/OG-Kyere/Bayesian-Hierarchical-Modelling-of-Childhood-Stunting-in-Ghana)
 
-An applied Bayesian research project using the **2022 Ghana Demographic and Health Survey (GDHS)** to study childhood stunting in Ghana through hierarchical modeling. The project emphasizes posterior inference, uncertainty quantification, model diagnostics, posterior predictive checking, and reproducible analysis.
+A three-level Bayesian analysis of childhood stunting using the **2022 Ghana Demographic and Health Survey (GDHS)**. The project focuses on household and community heterogeneity, posterior uncertainty, diagnostics, posterior predictive checking, and reproducibility.
 
 ### 📊 [StatMate — Statistical Analysis Assistant](https://github.com/OG-Kyere/StatMate)
 
-A modular Python statistical-analysis application that has grown from an Iris demonstration project into a reusable workflow for **custom CSV/Excel datasets**.
+A Python statistics and machine-learning CLI that began as an Iris project and has grown into a reusable workflow for custom CSV and Excel datasets.
 
-Current work includes:
+It currently includes:
 
-- Exploratory and descriptive statistical analysis
-- Correlation and hypothesis testing
-- Post-hoc analysis
-- Configurable regression and assumption diagnostics
-- Classification and cross-validated model comparison
-- ROC-AUC evaluation and feature importance
-- Prediction workflows
-- Automated TXT and HTML statistical reports
-- Session-aware analysis reporting
-- Modular architecture with an expanding automated test suite
+- exploratory and descriptive analysis
+- correlation and hypothesis testing
+- post-hoc procedures
+- regression and assumption diagnostics
+- classification and cross-validated model comparison
+- ROC-AUC and feature importance
+- prediction workflows
+- TXT and HTML reporting
+- session-aware analysis results
+- an expanding automated test suite
 
 ### 📈 [Bayesian Stochastic Volatility & Commodity Risk](https://github.com/OG-Kyere/bayesian-sv-commodity-risk-ghana)
 
-Collaborative work on Bayesian stochastic-volatility modeling and commodity-risk analysis, including work around forecast validity, diagnostics, and backtesting infrastructure.
+Collaborative work on Bayesian stochastic-volatility models for commodity-risk forecasting, including forecast validity, diagnostics, rolling backtests, and model comparison.
 
 ### 🎓 [Student Performance Prediction](https://github.com/OG-Kyere/student-performance-prediction)
 
-A machine-learning project exploring predictive modeling of student performance and the practical workflow from data preparation through model evaluation.
+A machine-learning project that walks through the practical pipeline from data preparation and exploratory analysis to model evaluation and prediction.
 
 ---
 
-## 🧠 Research Interests
+## 🧠 Research interests
 
-**Bayesian Statistics**  
+**Bayesian statistics**  
 Hierarchical models · Bayesian computation · posterior inference · uncertainty quantification
 
-**Statistical Modeling**  
+**Statistical modelling**  
 Regression · statistical inference · multivariate methods · time series · forecasting
 
-**Machine Learning & Statistical Computing**  
-Predictive modeling · model evaluation · reproducible pipelines · statistical software
+**Machine learning & statistical computing**  
+Predictive modelling · model evaluation · reproducible pipelines · statistical software
 
-**Applied Research**  
+**Applied research**  
 Biostatistics & public health · risk analytics · social and environmental data
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 
-**Programming & Statistical Computing**
+**Programming & statistical computing**
 
 `Python` · `R` · `Stata` · `SPSS` · `MATLAB`
 
@@ -69,21 +69,21 @@ Biostatistics & public health · risk analytics · social and environmental data
 
 `Bayesian Modeling` · `Regression` · `Machine Learning` · `Time Series` · `Forecasting` · `Statistical Inference`
 
-**Research & Reproducibility**
+**Research workflow**
 
 `Git` · `GitHub` · `LaTeX` · `Overleaf` · `Excel`
 
 ---
 
-## 🔭 What I'm Working Toward
+## 🔭 What I'm working toward
 
-I'm particularly interested in research where statistical methodology and computation meet real-world problems. Right now, much of my work is centered on **Bayesian modeling, reproducible statistical software, health data, and quantitative risk analysis**.
+I'm most interested in problems where methodology, computation, and a real application all matter at once.
 
-Alongside research, I work as a **Research & Teaching Assistant**, which keeps me involved in statistical teaching, problem solving, and helping students build stronger quantitative intuition.
+Research is one side of that. Teaching is the other. Working as a Research & Teaching Assistant keeps me close to the fundamentals and gives me regular practice explaining statistical ideas clearly rather than hiding behind notation.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OG-Kyere&show_icons=true&theme=tokyonight" height="170"/>
@@ -92,7 +92,7 @@ Alongside research, I work as a **Research & Teaching Assistant**, which keeps m
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's connect
 
 🔗 **LinkedIn:** [Gideon Ofosu Kyere](https://www.linkedin.com/in/gideon-ofosu-kyere-35020a22/)
 
@@ -100,10 +100,4 @@ Alongside research, I work as a **Research & Teaching Assistant**, which keeps m
 
 ---
 
-### ⚡ A little about how I work
-
-> I like models that do more than produce a number. I want to know **why the model behaves the way it does, how much uncertainty remains, whether the assumptions hold, and whether the result survives careful checking.**
-
-<p align="center">
-  <i>Statistics, computation, and reproducible research.</i>
-</p>
+> I like models that do more than return a number. I want to know why they behave the way they do, how much uncertainty is left, whether the assumptions hold, and whether the result survives careful checking.
