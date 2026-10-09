@@ -1,103 +1,79 @@
-# 👋 Hey, I'm Gideon
+# Hi, I'm Gideon 👋
 
-### 📊 Statistician · Researcher · Statistical Computing
+### Statistician · Research & Teaching Assistant · Statistical Computing
 
-I'm a Statistics graduate from **Kwame Nkrumah University of Science and Technology (KNUST)** and currently work as a **Research & Teaching Assistant**.
+I'm **Gideon Ofosu Kyere**, a Statistics graduate from **Kwame Nkrumah University of Science and Technology (KNUST)** and a **Research & Teaching Assistant**.
 
-Most of what I build sits somewhere between statistical theory and messy real-world data. I enjoy the full process: cleaning data, choosing a model, checking whether it actually behaves well, testing assumptions, and turning the result into something another person can reproduce.
+I work on questions where statistical methods, computation, and a real application meet. My interests span Bayesian modelling, biostatistics, public health, time series, and quantitative risk. I also build tools that make everyday statistical analysis easier to carry out and explain.
 
-My current interests are **Bayesian statistics, biostatistics, machine learning, statistical computing, time series, and quantitative risk**.
+The part I enjoy most is checking what sits behind a result: the data choices, assumptions, uncertainty, diagnostics, and whether someone else can reproduce the work.
 
----
+## Research I'm working on
 
-## 🔬 Current research and projects
+### [Anaemia inequalities in Ghana](https://github.com/OG-Kyere/anaemia-inequalities-ghana)
 
-### 🧠 [Bayesian Hierarchical Modelling of Childhood Stunting in Ghana](https://github.com/OG-Kyere/Bayesian-Hierarchical-Modelling-of-Childhood-Stunting-in-Ghana)
+A study of socioeconomic and geographic inequalities in anaemia among women aged 15–49, using the **2022 Ghana Demographic and Health Survey (GDHS)**. The analysis combines complex-survey estimation, concentration indices and inequality decomposition, adjusted regression, and community-level modelling.
 
-A three-level Bayesian analysis of childhood stunting using the **2022 Ghana Demographic and Health Survey (GDHS)**. The project focuses on household and community heterogeneity, posterior uncertainty, diagnostics, posterior predictive checking, and reproducibility.
+The analysis pipelines have been validated through fresh local reruns. Manuscript and supplementary materials are prepared for journal submission; the project remains research in progress.
 
-### 📊 [StatMate — Statistical Analysis Assistant](https://github.com/OG-Kyere/StatMate)
+### [Bayesian hierarchical modelling of childhood stunting](https://github.com/OG-Kyere/Bayesian-Hierarchical-Modelling-of-Childhood-Stunting-in-Ghana)
 
-A Python statistics and machine-learning CLI that began as an Iris project and has grown into a reusable workflow for custom CSV and Excel datasets.
+A three-level Bayesian study of children nested within households and survey communities, using the **2022 GDHS**. The focus is on household and community heterogeneity, posterior uncertainty, sensitivity analysis, and posterior predictive checks.
 
-It currently includes:
+A [draft reproducibility and validation revision](https://github.com/OG-Kyere/Bayesian-Hierarchical-Modelling-of-Childhood-Stunting-in-Ghana/pull/1) is underway. Longer model runs and sensitivity checks remain unfinished, so the earlier Bayesian findings should be treated as provisional.
 
-- exploratory and descriptive analysis
-- correlation and hypothesis testing
-- post-hoc procedures
-- regression and assumption diagnostics
-- classification and cross-validated model comparison
-- ROC-AUC and feature importance
-- prediction workflows
-- TXT and HTML reporting
-- session-aware analysis results
-- an expanding automated test suite
+### [Workplace determinants of metabolic syndrome](https://github.com/OG-Kyere/workplace-stress-metabolic-syndrome-systematic-review)
 
-### 📈 [Bayesian Stochastic Volatility & Commodity Risk](https://github.com/OG-Kyere/bayesian-sv-commodity-risk-ghana)
+An updated systematic review of occupational stress, workplace nutrition, physical activity, sedentary behaviour, and workplace lifestyle interventions. The work includes study-level extraction, design-specific Joanna Briggs Institute appraisal, and narrative synthesis.
 
-Collaborative work on Bayesian stochastic-volatility models for commodity-risk forecasting, including forecast validity, diagnostics, rolling backtests, and model comparison.
+The manuscript is being revised. Record-level PRISMA counts and final authorship still need to be completed.
 
-### 🎓 [Student Performance Prediction](https://github.com/OG-Kyere/student-performance-prediction)
+### [Bayesian stochastic volatility and commodity risk](https://github.com/OG-Kyere/bayesian-sv-commodity-risk-ghana)
 
-A machine-learning project that walks through the practical pipeline from data preparation and exploratory analysis to model evaluation and prediction.
+Collaborative work with [Jonathan](https://github.com/Jonathanerrils) on risk forecasting for cocoa, gold, and Brent crude oil. My contributions focus on forecast validity, rolling-window and checkpoint handling, sampler and particle diagnostics, reproducibility, and production workflow auditing.
 
----
+The latest [recovery infrastructure proposal](https://github.com/Jonathanerrils/bayesian-sv-commodity-risk-ghana/pull/17) is awaiting review and merge. The production analysis remains incomplete; this work is not yet a final set of validated comparative results.
 
-## 🧠 Research interests
+The GDHS projects share code and aggregate outputs while keeping restricted microdata outside the repositories.
 
-**Bayesian statistics**  
-Hierarchical models · Bayesian computation · posterior inference · uncertainty quantification
+## Software and learning projects
 
-**Statistical modelling**  
-Regression · statistical inference · multivariate methods · time series · forecasting
+### [StatMate — Statistical Analysis Assistant](https://github.com/OG-Kyere/StatMate)
 
-**Machine learning & statistical computing**  
-Predictive modelling · model evaluation · reproducible pipelines · statistical software
+A Python command-line tool for statistics and machine learning with built-in Iris analysis and support for custom CSV and Excel datasets.
 
-**Applied research**  
-Biostatistics & public health · risk analytics · social and environmental data
+Current features include exploratory analysis, correlation and group comparisons, OLS regression with diagnostics, classification with cross-validation, ROC-AUC, feature importance, prediction, and text/HTML reports. Session-aware reporting keeps results tied to the active dataset, and automated tests cover the analysis workflows.
 
----
+StatMate is an ongoing learning and portfolio project. I'm continuing to improve its statistical guidance, reporting, and support for different study designs.
 
-## 🛠️ Tools
+### [Student performance prediction](https://github.com/OG-Kyere/student-performance-prediction)
 
-**Programming & statistical computing**
+A self-contained machine-learning demonstration using **synthetic data** and a Random Forest regressor. It covers data preparation, exploratory plots, train/test evaluation, feature importance, and prediction. Its results illustrate the workflow rather than establish performance in real schools.
 
-`Python` · `R` · `Stata` · `SPSS` · `MATLAB`
+## Tools I use
 
-**Methods**
+**Programming and analysis**  
+Python · R · Stata · SPSS · MATLAB
 
-`Bayesian Modeling` · `Regression` · `Machine Learning` · `Time Series` · `Forecasting` · `Statistical Inference`
+**Python libraries used across my public projects**  
+pandas · NumPy · SciPy · statsmodels · scikit-learn · PyMC · ArviZ · Matplotlib · seaborn
 
-**Research workflow**
+**Research and development workflow**  
+Git · GitHub · GitHub Actions · automated testing · LaTeX · Overleaf · Excel
 
-`Git` · `GitHub` · `LaTeX` · `Overleaf` · `Excel`
+## What matters to me
 
----
+I want my work to be useful, inspectable, and honest about its limits. That means documenting analysis decisions, checking model behaviour, and distinguishing a promising result from one that has passed the necessary validation.
 
-## 🔭 What I'm working toward
+Teaching keeps me close to the fundamentals and gives me practice explaining statistical ideas clearly.
 
-I'm most interested in problems where methodology, computation, and a real application all matter at once.
-
-Research is one side of that. Teaching is the other. Working as a Research & Teaching Assistant keeps me close to the fundamentals and gives me regular practice explaining statistical ideas clearly rather than hiding behind notation.
-
----
-
-## 📊 GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OG-Kyere&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Kyere&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OG-Kyere&show_icons=true&theme=tokyonight" alt="Gideon's GitHub activity statistics" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Kyere&layout=compact&theme=tokyonight" alt="Languages used in Gideon's public repositories" height="170"/>
 </p>
 
----
+## Let's connect
 
-## 📫 Let's connect
-
-🔗 **LinkedIn:** [Gideon Ofosu Kyere](https://www.linkedin.com/in/gideon-ofosu-kyere-35020a22/)
-
-📧 **Email:** [kyereofosu2003@gmail.com](mailto:kyereofosu2003@gmail.com)
-
----
-
-> I like models that do more than return a number. I want to know why they behave the way they do, how much uncertainty is left, whether the assumptions hold, and whether the result survives careful checking.
+[LinkedIn](https://www.linkedin.com/in/gideon-ofosu-kyere-35020a22/) · [ORCID](https://orcid.org/0009-0003-9848-8437) · [Email](mailto:kyereofosu2003@gmail.com)
